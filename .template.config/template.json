@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Bora Aydın",
+  "classifications": [ "Common", "MVC", "Web" ],
+  "identity": "Clean.Architecture.Template",
+  "name": "Clean Architecture Template",
+  "description": "Template for Clean Architecture",
+  "shortName": "cleanarchitecturetemplate",
+  "sourceName": "CleanArchitecture",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [
+            "ReadMe.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

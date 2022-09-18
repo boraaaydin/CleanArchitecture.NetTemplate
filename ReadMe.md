@@ -3,7 +3,7 @@
 ![alt text](https://github.com/phongnguyend/Practical.CleanArchitecture/blob/master/docs/imgs/layer-dependencies.png?raw=true)
 
 
-#### Create template : 
+#### Create template on root folder : 
 `dotnet new --install .`
 
 #### Create app from template : 

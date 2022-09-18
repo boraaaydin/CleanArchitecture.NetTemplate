@@ -1,6 +1,6 @@
 ## Four Layer Architecture Template for .Net Core 6 
 
-![alt text](https://raw.githubusercontent.com/phongnguyend/Practical.CleanArchitecture/master/docs/imgs/modern-four-layer-architecture.png?raw=true)
+![alt text](https://github.com/phongnguyend/Practical.CleanArchitecture/blob/master/docs/imgs/layer-dependencies.png?raw=true)
 
 
 #### Create template : 

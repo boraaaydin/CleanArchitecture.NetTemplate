@@ -1,9 +1,15 @@
-## Four layer architecture .Net Template
+## Four Layer Architecture Template for .Net Core 6 
 
 ![alt text](https://raw.githubusercontent.com/phongnguyend/Practical.CleanArchitecture/master/docs/imgs/modern-four-layer-architecture.png?raw=true)
 
 
+#### Create template : 
+`dotnet new --install .`
 
-- create template          :  	dotnet new --install .
-- delete template          :  	dotnet new --uninstall .
-- create app from template : 	dotnet new cleanarchitecturetemplate -o "MyApp"
+#### Create app from template : 
+`dotnet new cleanarchitecturetemplate -o "MyApp"`
+
+#### Other commands :
+- delete template : 
+`dotnet new --uninstall .`
+- search template on Nuget.org : `dotnet new --search keyword`

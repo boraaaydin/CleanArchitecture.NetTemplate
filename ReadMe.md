@@ -10,6 +10,6 @@
 `dotnet new cleanarchitecturetemplate -o "MyApp"`
 
 #### Other commands :
-- delete template : 
-`dotnet new --uninstall .`
+- list all templates : `dotnet new --list`
+- delete template : `dotnet new --uninstall .`
 - search template on Nuget.org : `dotnet new --search keyword`

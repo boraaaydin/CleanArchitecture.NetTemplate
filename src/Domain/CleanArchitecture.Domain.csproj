@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Infrastructure\CleanArchitecture.Infrastructure\CleanArchitecture.Infrastructure.csproj" />
-    <ProjectReference Include="..\Persistence\CleanArchitecture.Persistence\CleanArchitecture.Persistence.csproj" />
+    <ProjectReference Include="..\Infrastructure\CleanArchitecture.Infrastructure.csproj" />
+    <ProjectReference Include="..\Persistence\CleanArchitecture.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
